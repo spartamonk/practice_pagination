@@ -152,7 +152,7 @@ Pagination
   }
 }
 .card {
-  background: greenyellow;
+  background: var(--clr-white);
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
   padding: 2rem 3.5rem;
